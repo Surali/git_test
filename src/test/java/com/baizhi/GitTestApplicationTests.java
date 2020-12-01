@@ -11,6 +11,7 @@ class GitTestApplicationTests {
         int b=8;
         int a=6;
         int c=a+b;
+        int d=4;
         System.out.println(c);
     }
 
